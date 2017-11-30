@@ -1,0 +1,53 @@
+.row {margin: 0;}
+
+/* Header */
+.top-menu {background: #f6f6f6;}
+.top-menu .bg-light {background: #f6f6f6!important;}
+.header-logo {margin: 0;}
+.logo {padding: 25px;}
+/* Fim Header */
+
+/* Menu Principal*/
+.menu-principal {padding-top: 10px; padding-bottom: 10px;}
+.menu-principal .shop {color: #d9d9d9;}
+.menu-principal .shop:hover {color: #ffffff; background: #000}
+.menu-principal .bracelete {color: #000;}
+.menu-principal .bracelete:hover {color: #ffffff; background: #000}
+.menu-principal .bolsas {color: #000;}
+.menu-principal .bolsas:hover {color: #ffffff; background: #000}
+.menu-principal .carteira {color: #000;}
+.menu-principal .carteira:hover {color: #ffffff; background: #000}
+.menu-principal .cachecois {color: #000;}
+.menu-principal .cachecois:hover {color: #ffffff; background: #000}
+.menu-principal .colares {color: #000;}
+.menu-principal .colares:hover {color: #ffffff; background: #000}
+/* Fim Menu Principal */
+
+/* Conteudo */
+.bg-pagina {background: #eeede8; text-align: center}
+.comentario-facebook {padding: 30px;}
+.lista-produto-1 { padding: 10px;}
+
+/* Produtos Detalhes */
+.produtos-img-thumb { padding: 0; list-style: none }
+.produtos-img-thumb img { max-width: 80px; border: none }
+.seletores-prod { list-style: none; padding: 0;}
+
+ 
+/*seletores */
+.seletores { list-style: none; padding: 0; position: absolute; bottom: 0}
+.select-azul {  display: inline-block; width: 30px; height: 30px; cursor: pointer; background-color: #1a7ba8; margin: 10px; }
+.select-bege {  display: inline-block; width: 30px; height: 30px; cursor: pointer; background-color: #ffec9e; margin: 10px; }
+.select-preto {  display: inline-block; width: 30px; height: 30px; cursor: pointer; background-color: #211401; margin: 10px; }
+.select-cinza {  display: inline-block; width: 30px; height: 30px; cursor: pointer; background-color: #2c2c2c; margin: 10px; }
+
+.lista-produto-1 .produto-teste-1 { background: #ffffff; width: 210px; height: 385px; padding: 25px; margin-right: 5px;}
+.lista-produto-1 .produto-teste-2 { background: #ffffff; width: 210px; height: 385px; padding: 25px; margin-right: 5px;}
+.lista-produto-1 .produto-teste-3 { background: #ffffff; width: 210px; height: 385px; padding: 25px; margin-right: 5px;}
+.lista-produto-1 .produto-teste-4 { background: #ffffff; width: 210px; height: 385px; padding: 25px;}
+/* Fim Conteudo */
+
+/* Footer */
+.banner-footer { background: #ffffff; margin: 0 177px;}
+.footer-menu { padding: 30px;}
+/* Fim Footer */
